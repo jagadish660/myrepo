@@ -1,3 +1,10 @@
 adding a new file to
 the myrepo
 repository
+about c++
+python
+opencv
+
+
+web dev
+css anf php
